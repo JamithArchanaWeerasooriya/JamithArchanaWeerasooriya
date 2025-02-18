@@ -33,8 +33,8 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Archana-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-Archana-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Archana-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/archana-weerasooriya)
+[![GitHub](https://img.shields.io/badge/GitHub-Archana-black?style=for-the-badge&logo=github)](https://github.com/JamithArchanaWeerasooriya)
 
 ---
 
